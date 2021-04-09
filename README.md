@@ -36,6 +36,8 @@
 
  - Css
 
+ - Sqlite
+
  - C# (currently learning)
 
 __Two Fun Facts__:
