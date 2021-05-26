@@ -13,7 +13,7 @@
   
   __Projects I am currently working on__:
   -
-  - __Captalist__ - A free to play web-based game that allows player to take up the role of citizens, politcians, investors and etc; in the country/state/city of their choosen. This game is currently still in development, and most likely will be until summer of 2021 which is when I plan on releasing the first version of the game
+  - __Captalist__ - A free to play web-based game that allows player to take up the role of citizens, politcians, investors and etc; in the country/state/city of their choosen. This game is currently still in development, and most likely will be until summer of 2022 which is when I plan on releasing the first version of the game
 
 
   - __Myself__ - I am the biggest project of all. Trying to constantly improve, in the thing that I love doing, whether that is playing sports or learning new programming languages and gaining new programming skills. Because constant improvement is the only way I see myself getting far in life
