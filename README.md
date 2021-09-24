@@ -1,4 +1,6 @@
 ### Hi there 👋, 
+[![Chidozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithcn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
   My name is Chidozie N. But I go by codingwithcn on all my programing user account. I am a highschooler who loves to code
   
   __Projects I am proud of__:
@@ -45,9 +47,6 @@ __Two Fun Facts__:
 - I am currently 16 year old
 
 - I plan on one day starting a successful startup
-
-
-[![Chidozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithcn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **codingwithcn/codingwithcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
