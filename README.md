@@ -1,5 +1,5 @@
 ### Hi there 👋, ![](https://visitor-badge.glitch.me/badge?page_id=codingwithcn.codingwithcn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithcn&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Chidozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithcn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Metrics](https://metrics.lecoq.io/codingwithcn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta)
@@ -30,6 +30,9 @@
   - Discord: codeswithcn#2661
 
   - Github: codingwithcn
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithcn&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
  
  __Languages I currently know and practice__:
  -
