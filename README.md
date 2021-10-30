@@ -44,6 +44,8 @@
 
  - Sqlite
 
+ - Java
+
  - C# (currently learning)
 
 __Two Fun Facts__:
