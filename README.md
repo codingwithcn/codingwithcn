@@ -50,7 +50,7 @@
 
 __Two Fun Facts__:
 -
-- I am currently 16 year old
+- I am currently 17 year old
 
 - I plan on one day starting a successful startup
 
