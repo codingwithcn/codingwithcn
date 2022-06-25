@@ -38,6 +38,8 @@
 
  - Javascript
 
+ - TypeScript
+
  - Html
 
  - Css
