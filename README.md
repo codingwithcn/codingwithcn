@@ -6,7 +6,7 @@
   
   __Projects I am proud of__:
   -
-  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that we provide ad services for business/companies in the fitness community to be able to reach the right user for them, while also providing our food api services to businesses/developers.
+  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that but we provide ad services for business/companies in the fitness industry to be able to reach the right user for them, while also providing our food api services to businesses/developers.
   
   - __InvestIt__ - An investing game, that allows you to make your own servers and allow players/friends to connect to your local servers so you could play the game with them. You can either make your own Company or invest in others.
 
@@ -18,7 +18,7 @@
   
   __Projects I am currently working on__:
   -
-  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that we provide ad services for business/companies in the fitness community to be able to reach the right user for them, while also providing our food api services to businesses/developers.
+  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that but we provide ad services for business/companies in the fitness industry to be able to reach the right user for them, while also providing our food api services to businesses/developers.
 
   - __Myself__ - I am the biggest project of all. Trying to constantly improve, in the thing that I love doing, whether that is playing sports or learning new programming languages and gaining new programming skills. Because constant improvement is the only way I see myself getting far in life
 
