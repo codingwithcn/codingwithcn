@@ -6,7 +6,7 @@
   
   __Projects I am proud of__:
   -
-  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that but we provide ad services for business/companies in the fitness industry to be able to reach the right user for them, while also providing our food api services to businesses/developers.
+  - __Lifters International__ - A startup that hopes to bridge the gap between gym and tech. We are SaaS based business that allows fitness enthusiast to connect and match with one another. We also allow them to track their daily micronutrient, while giving them access to our food database. Not only that but we provide ad services for business/companies in the fitness industry to be able to reach the right user for them, while also providing our food api services to businesses/developers. Lastly but not least, without our recent update fitness trainers can now have a source of income with us, allowing them to post workout video in turn for getting clients that will pay them through us.
   
   - __InvestIt__ - An investing game, that allows you to make your own servers and allow players/friends to connect to your local servers so you could play the game with them. You can either make your own Company or invest in others.
 
